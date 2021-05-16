@@ -299,6 +299,6 @@ void menyu() {
 	}
 }
 int main() {
-
+cout<< "Hello";
 	menyu();
 }
